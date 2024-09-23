@@ -89,7 +89,6 @@ Desarrollado por **Luis Suarez** para el curso "Programación Básica" Módulo 3
 ## 📝 Notas
 
 - Este proyecto cumple con los requisitos específicos del curso.
-- Para consultas o reporte de errores, contacta a consejeria@ipp.cl.
 
 ---
 
